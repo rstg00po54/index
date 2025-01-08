@@ -1,0 +1,20 @@
+<svg width="72.3" height="20" viewBox="0 0 723 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Website">
+  <title>Website</title>
+  <linearGradient id="LPhZR" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="ZySEs"><rect width="723" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#ZySEs)">
+    <rect width="182" height="200" fill="#555"/>
+    <rect width="541" height="200" fill="#08C" x="182"/>
+    <rect width="723" height="200" fill="url(#LPhZR)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="142" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="132" y="138" textLength="0"></text>
+    <text x="237" y="148" textLength="441" fill="#000" opacity="0.25">Website</text>
+    <text x="227" y="138" textLength="441">Website</text>
+  </g>
+  <image x="40" y="35" width="100" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE2LjIxIDguNjlsNi43Mi0xLjY4QTEyLjAzIDEyLjAzIDAgMDEyNCAxMS45N2ExMi4wOSAxMi4wOSAwIDAxLTEyLjk0IDEybDQuOS04LjM1Yy4zNi0uMzguNjYtLjguODktMS4yN2E1LjQ1IDUuNDUgMCAwMC0uMDUtNC43NSA1LjE2IDUuMTYgMCAwMC0uNTktLjkxem0tMy4yNCA4LjU3bC0yLjEyIDYuNjlBMTIuMDIgMTIuMDIgMCAwMTIuMDQgNS4yOGw0LjgzIDguMzhjLjE4LjU0IDEuMTIgMi41OCAzLjA3IDMuMzIgMSAuMzkgMi4wNC40OCAzLjAzLjI5em0tMS05LjY0YTQuNTIgNC41MiAwIDAwLTQuMjggMy41MSA0LjQ4IDQuNDggMCAwMDEuMjQgNC4wMyA0LjQ5IDQuNDkgMCAwMDQuNzMuOTMgNC40OSA0LjQ5IDAgMDAyLjctMy40MyA0LjUzIDQuNTMgMCAwMC0yLjUtNC42MyA0LjQxIDQuNDEgMCAwMC0xLjg5LS40MXpNNy4wNSA5Ljk2bC00LjgtNUExMi4wNCAxMi4wNCAwIDAxMTIgMGM0LjU2IDAgOC43NCAyLjYgMTAuNzcgNi42N0gxMi41NmE1LjU0IDUuNTQgMCAwMC00LjI3IDEuNDYgNS4zNCA1LjM0IDAgMDAtMS4yNCAxLjgzeiIvPjwvc3ZnPgo="/>
+</svg>
