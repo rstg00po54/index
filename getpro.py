@@ -30,14 +30,24 @@ render = [
     "Hana-SoftwareRenderer",
     "PhysicallyBasedRenderer",
     "nori",
+    "SDEngine",
+    "thegibook",
+    "TinySoftRenderer",
 ]
 web = [
-    "hbook",
     "gatsby",
     "hexo",
+    "W3C-CHM",
+    "w3cschool",
+]
+
+book = [
+    "hbook",
     "modern-cpp-tutorial",
-    "fullstack-hy2020.github.io",
     "my-node-ejs-app",
+    "fullstack-hy2020.github.io",
+    "Web",
+    "react-naive-book",
 ]
 
 games = [
@@ -68,6 +78,8 @@ dx11 = [
 graph = [
     "movy",
     "imgui",
+    "threepp",
+    "tinygl",
 ]
 encode = [
     "h264_video_decoder_demo",
@@ -84,6 +96,7 @@ other = [
 lists = {
     "render": render,
     "web": web,
+    "book": book,
     "games": games,
     "mcu": mcu,
     "cpu": cpu,
@@ -109,7 +122,7 @@ cates = {}
 
 # 遍历字典的键值对
 for key, value in lists.items():
-    print('--------------')
+    # print('--------------')
     print(f"Key: {key}, Value: {value}")
     if "index" in value:
         print("is in")
@@ -127,8 +140,9 @@ def check_string_in_lists(target_string, lists):
         print(f"'{target_string}' not found in any list.")
 
 # GET https://api.github.com/users/rstg00po54/repos|jq '[.[] | {name, description}]'
+# "https://api.github.com/users/{username}/repos?per_page=100"
 # 请求 GitHub API 获取用户的仓库信息
-url = f"https://api.github.com/users/{username}/repos"
+url = f"https://api.github.com/users/{username}/repos?per_page=100"
 response = requests.get(url)
 # 检查响应状态码
 if response.status_code == 200:
@@ -154,11 +168,13 @@ if response.status_code == 200:
         file_path = 'test.md'  # 你的md文件路径
         # check_string_in_md(file_path, repo['name'])
         check_string_in_lists(repo['name'], lists)
+        bin = False
         # 遍历字典的键值对
         for key, value in lists.items():
-            print('--------------')
-            print(f"Key: {key}, Value: {value}")
+            # print('--------------')
+            # print(f"Key: {key}, Value: {value}")
             if repo['name'] in value:
+                bin = True
                 print("is in")
                 cates.setdefault(key, []).append(
 
@@ -168,6 +184,8 @@ if response.status_code == 200:
                     "description":repo['description']
                         
                 })
+        if bin == False:
+            print(f"{repo['name']} is not in ")
             # for v in value:
             #     print(v)
 
@@ -190,6 +208,7 @@ print("\033[31m字典中所有列表的总个数:\033[0m", total_count)
 lists1 = [
     "render",
     "web",
+    "book",
     "games",
     "mcu",
     "cpu",
@@ -219,7 +238,7 @@ md_content += "<tbody>\n"
 for v in lists1:
     print(f"----{v}")
     val = cates[v]
-    pprint(val)
+    # pprint(val)
     md_content += f"\t<!--{v}-->\n"
     i = 0
     # print(val)
@@ -242,7 +261,7 @@ for v in lists1:
         i = i + 1
 md_content += "</table>\n"
 md_content += "</tbody>\n"
-print(md_content)
+# print(md_content)
 with open("mdfile.md", "w", encoding="utf-8") as md_file:
     md_file.write(md_content)
 '''

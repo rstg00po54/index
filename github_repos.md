@@ -61,7 +61,7 @@
 **Type:** Public
 
 ## [fullstack-hy2020.github.io](https://github.com/rstg00po54/fullstack-hy2020.github.io)
-**Description:** None
+**Description:** 全栈工程师，gatsby 编译
 
 **Type:** Public
 
@@ -147,6 +147,51 @@
 
 ## [PhysicallyBasedRenderer](https://github.com/rstg00po54/PhysicallyBasedRenderer)
 **Description:** Physically Based Rendering
+
+**Type:** Public
+
+## [react-naive-book](https://github.com/rstg00po54/react-naive-book)
+**Description:** 开源、免费、专业、简单的 React.js 在线教程，使用jekyll 编译
+
+**Type:** Public
+
+## [SDEngine](https://github.com/rstg00po54/SDEngine)
+**Description:** Simple Dog 3D Graphics Rendering Engine
+
+**Type:** Public
+
+## [thegibook](https://github.com/rstg00po54/thegibook)
+**Description:** 《全局光照技术：从离线到实时渲染》
+
+**Type:** Public
+
+## [threepp](https://github.com/rstg00po54/threepp)
+**Description:** C++17 port of three.js (r129)
+
+**Type:** Public
+
+## [tinygl](https://github.com/rstg00po54/tinygl)
+**Description:** The penultimate portable graphics library
+
+**Type:** Public
+
+## [TinySoftRenderer](https://github.com/rstg00po54/TinySoftRenderer)
+**Description:** A tiny soft-renderer built from scratch using C++ 11
+
+**Type:** Public
+
+## [W3C-CHM](https://github.com/rstg00po54/W3C-CHM)
+**Description:** 关于前端的手册，css，js，html，JavaScript核心参考手册.chm，W3CSchool（全套教程最新版_2012).chm
+
+**Type:** Public
+
+## [w3cschool](https://github.com/rstg00po54/w3cschool)
+**Description:** An Offline(^_^) W3CSchool Website...
+
+**Type:** Public
+
+## [Web](https://github.com/rstg00po54/Web)
+**Description:** 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 
 **Type:** Public
 

@@ -11,7 +11,7 @@
 <tbody>
 	<!--render-->
 	<tr>
-		<td rowspan="4">render</td>
+		<td rowspan="7">render</td>
 		<td><a href="https://github.com/rstg00po54/Atrc">Atrc</td>
 		<td>My path tracer</td>
 	</tr>
@@ -27,23 +27,45 @@
 		<td><a href="https://github.com/rstg00po54/PhysicallyBasedRenderer">PhysicallyBasedRenderer</td>
 		<td>Physically Based Rendering</td>
 	</tr>
-	<!--web-->
 	<tr>
-		<td rowspan="6">web</td>
-		<td><a href="https://github.com/rstg00po54/fullstack-hy2020.github.io">fullstack-hy2020.github.io</td>
-		<td>None</td>
+		<td><a href="https://github.com/rstg00po54/SDEngine">SDEngine</td>
+		<td>Simple Dog 3D Graphics Rendering Engine</td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/rstg00po54/thegibook">thegibook</td>
+		<td>《全局光照技术：从离线到实时渲染》</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/TinySoftRenderer">TinySoftRenderer</td>
+		<td>A tiny soft-renderer built from scratch using C++ 11</td>
+	</tr>
+	<!--web-->
+	<tr>
+		<td rowspan="4">web</td>
 		<td><a href="https://github.com/rstg00po54/gatsby">gatsby</td>
 		<td>The best React-based framework with performance, scalability and security built in.</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/rstg00po54/hbook">hbook</td>
-		<td>None</td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/rstg00po54/hexo">hexo</td>
 		<td>A fast, simple & powerful blog framework, powered by Node.js.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/W3C-CHM">W3C-CHM</td>
+		<td>关于前端的手册，css，js，html，JavaScript核心参考手册.chm，W3CSchool（全套教程最新版_2012).chm</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/w3cschool">w3cschool</td>
+		<td>An Offline(^_^) W3CSchool Website...</td>
+	</tr>
+	<!--book-->
+	<tr>
+		<td rowspan="6">book</td>
+		<td><a href="https://github.com/rstg00po54/fullstack-hy2020.github.io">fullstack-hy2020.github.io</td>
+		<td>全栈工程师，gatsby 编译</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/hbook">hbook</td>
+		<td>None</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/modern-cpp-tutorial">modern-cpp-tutorial</td>
@@ -52,6 +74,14 @@
 	<tr>
 		<td><a href="https://github.com/rstg00po54/my-node-ejs-app">my-node-ejs-app</td>
 		<td>ejs学习代码</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/react-naive-book">react-naive-book</td>
+		<td>开源、免费、专业、简单的 React.js 在线教程，使用jekyll 编译</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/Web">Web</td>
+		<td>千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。</td>
 	</tr>
 	<!--games-->
 	<tr>
@@ -119,13 +149,21 @@
 	</tr>
 	<!--graph-->
 	<tr>
-		<td rowspan="2">graph</td>
+		<td rowspan="4">graph</td>
 		<td><a href="https://github.com/rstg00po54/imgui">imgui</td>
 		<td>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/movy">movy</td>
 		<td>movy.js is a client-side JS animation engine for creating explanatory videos.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/threepp">threepp</td>
+		<td>C++17 port of three.js (r129)</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/tinygl">tinygl</td>
+		<td>The penultimate portable graphics library</td>
 	</tr>
 	<!--encode-->
 	<tr>
