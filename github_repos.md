@@ -85,11 +85,6 @@
 
 **Type:** Public
 
-## [gerrithub-test2](https://github.com/rstg00po54/gerrithub-test2)
-**Description:** a test gerrithub repo
-
-**Type:** Public
-
 ## [h264_video_decoder_demo](https://github.com/rstg00po54/h264_video_decoder_demo)
 **Description:** H264裸码流视频解码器
 
@@ -147,6 +142,11 @@
 
 ## [ODriveHardware](https://github.com/rstg00po54/ODriveHardware)
 **Description:** High performance motor control
+
+**Type:** Public
+
+## [PhysicallyBasedRenderer](https://github.com/rstg00po54/PhysicallyBasedRenderer)
+**Description:** Physically Based Rendering
 
 **Type:** Public
 
