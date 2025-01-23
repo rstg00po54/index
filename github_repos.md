@@ -10,6 +10,11 @@
 
 **Type:** Public
 
+## [booktools](https://github.com/rstg00po54/booktools)
+**Description:** None
+
+**Type:** Public
+
 ## [cleanflight](https://github.com/rstg00po54/cleanflight)
 **Description:** Clean-code version of the baseflight flight controller firmware
 
@@ -22,6 +27,11 @@
 
 ## [CPU](https://github.com/rstg00po54/CPU)
 **Description:** None
+
+**Type:** Public
+
+## [css-js-animation](https://github.com/rstg00po54/css-js-animation)
+**Description:** 常见的css动画集
 
 **Type:** Public
 
@@ -96,7 +106,7 @@
 **Type:** Public
 
 ## [hbook](https://github.com/rstg00po54/hbook)
-**Description:** None
+**Description:** https://rstg00po54.github.io/hbook/
 
 **Type:** Public
 
@@ -145,8 +155,23 @@
 
 **Type:** Public
 
+## [openglbook](https://github.com/rstg00po54/openglbook)
+**Description:** None
+
+**Type:** Public
+
+## [opengltest](https://github.com/rstg00po54/opengltest)
+**Description:** None
+
+**Type:** Public
+
 ## [PhysicallyBasedRenderer](https://github.com/rstg00po54/PhysicallyBasedRenderer)
 **Description:** Physically Based Rendering
+
+**Type:** Public
+
+## [Raym0nade](https://github.com/rstg00po54/Raym0nade)
+**Description:** Team Project for 2024 Autumn Advanced Computer Graphics
 
 **Type:** Public
 
@@ -192,6 +217,11 @@
 
 ## [Web](https://github.com/rstg00po54/Web)
 **Description:** 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+**Type:** Public
+
+## [webDev-animate](https://github.com/rstg00po54/webDev-animate)
+**Description:** 开发可能用到特效
 
 **Type:** Public
 

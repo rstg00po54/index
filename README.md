@@ -41,13 +41,25 @@
 	</tr>
 	<!--web-->
 	<tr>
-		<td rowspan="4">web</td>
+		<td rowspan="8">web</td>
+		<td><a href="https://github.com/rstg00po54/booktools">booktools</td>
+		<td>None</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/css-js-animation">css-js-animation</td>
+		<td>常见的css动画集</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/rstg00po54/gatsby">gatsby</td>
 		<td>The best React-based framework with performance, scalability and security built in.</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/hexo">hexo</td>
 		<td>A fast, simple & powerful blog framework, powered by Node.js.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/Raym0nade">Raym0nade</td>
+		<td>Team Project for 2024 Autumn Advanced Computer Graphics</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/W3C-CHM">W3C-CHM</td>
@@ -57,15 +69,19 @@
 		<td><a href="https://github.com/rstg00po54/w3cschool">w3cschool</td>
 		<td>An Offline(^_^) W3CSchool Website...</td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/webDev-animate">webDev-animate</td>
+		<td>开发可能用到特效</td>
+	</tr>
 	<!--book-->
 	<tr>
-		<td rowspan="6">book</td>
+		<td rowspan="7">book</td>
 		<td><a href="https://github.com/rstg00po54/fullstack-hy2020.github.io">fullstack-hy2020.github.io</td>
 		<td>全栈工程师，gatsby 编译</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/hbook">hbook</td>
-		<td>None</td>
+		<td>https://rstg00po54.github.io/hbook/</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/modern-cpp-tutorial">modern-cpp-tutorial</td>
@@ -74,6 +90,10 @@
 	<tr>
 		<td><a href="https://github.com/rstg00po54/my-node-ejs-app">my-node-ejs-app</td>
 		<td>ejs学习代码</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/openglbook">openglbook</td>
+		<td>None</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/react-naive-book">react-naive-book</td>
@@ -149,13 +169,17 @@
 	</tr>
 	<!--graph-->
 	<tr>
-		<td rowspan="4">graph</td>
+		<td rowspan="5">graph</td>
 		<td><a href="https://github.com/rstg00po54/imgui">imgui</td>
 		<td>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/movy">movy</td>
 		<td>movy.js is a client-side JS animation engine for creating explanatory videos.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/rstg00po54/opengltest">opengltest</td>
+		<td>None</td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/rstg00po54/threepp">threepp</td>

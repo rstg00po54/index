@@ -39,6 +39,10 @@ web = [
     "hexo",
     "W3C-CHM",
     "w3cschool",
+    "booktools",
+    "css-js-animation",
+    "Raym0nade",
+    "webDev-animate",
 ]
 
 book = [
@@ -48,6 +52,7 @@ book = [
     "fullstack-hy2020.github.io",
     "Web",
     "react-naive-book",
+    "openglbook",
 ]
 
 games = [
@@ -80,6 +85,7 @@ graph = [
     "imgui",
     "threepp",
     "tinygl",
+    "opengltest",
 ]
 encode = [
     "h264_video_decoder_demo",
@@ -133,7 +139,7 @@ def check_string_in_lists(target_string, lists):
     found = False
     for category, category_list in lists.items():
         if target_string in category_list:
-            print(f"'{target_string}' found in {category} list.")
+            # print(f"'{target_string}' found in {category} list.")
             found = True
             break
     if not found:
@@ -262,7 +268,7 @@ for v in lists1:
 md_content += "</table>\n"
 md_content += "</tbody>\n"
 # print(md_content)
-with open("mdfile.md", "w", encoding="utf-8") as md_file:
+with open("README.md", "w", encoding="utf-8") as md_file:
     md_file.write(md_content)
 '''
 total = 0
